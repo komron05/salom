@@ -1,0 +1,19 @@
+body{
+    margin-top: 400px;
+    justify-items: center;
+}
+.rang{
+    margin-top: 300px;
+    background-color: rgb(70, 199, 92);
+    width: 150px;
+    height: 150px;
+}
+#reds{
+background-color: red;
+}
+#yellows{
+    background-color: yellow;
+}
+.rounded{
+ border-radius: 50%;
+}
